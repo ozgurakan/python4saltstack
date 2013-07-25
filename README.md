@@ -1,0 +1,1 @@
+Just enough python knowledge to be able to write SLS formulas for SaltStack.
